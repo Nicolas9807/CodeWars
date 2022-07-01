@@ -1,0 +1,16 @@
+D:\Projects\CodeWars\TotalAmountOfPoints\bin\Debug\net5.0\TotalAmountOfPoints.exe
+D:\Projects\CodeWars\TotalAmountOfPoints\bin\Debug\net5.0\TotalAmountOfPoints.deps.json
+D:\Projects\CodeWars\TotalAmountOfPoints\bin\Debug\net5.0\TotalAmountOfPoints.runtimeconfig.json
+D:\Projects\CodeWars\TotalAmountOfPoints\bin\Debug\net5.0\TotalAmountOfPoints.runtimeconfig.dev.json
+D:\Projects\CodeWars\TotalAmountOfPoints\bin\Debug\net5.0\TotalAmountOfPoints.dll
+D:\Projects\CodeWars\TotalAmountOfPoints\bin\Debug\net5.0\TotalAmountOfPoints.pdb
+D:\Projects\CodeWars\TotalAmountOfPoints\obj\Debug\net5.0\TotalAmountOfPoints.csproj.AssemblyReference.cache
+D:\Projects\CodeWars\TotalAmountOfPoints\obj\Debug\net5.0\TotalAmountOfPoints.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeWars\TotalAmountOfPoints\obj\Debug\net5.0\TotalAmountOfPoints.AssemblyInfoInputs.cache
+D:\Projects\CodeWars\TotalAmountOfPoints\obj\Debug\net5.0\TotalAmountOfPoints.AssemblyInfo.cs
+D:\Projects\CodeWars\TotalAmountOfPoints\obj\Debug\net5.0\TotalAmountOfPoints.csproj.CoreCompileInputs.cache
+D:\Projects\CodeWars\TotalAmountOfPoints\obj\Debug\net5.0\TotalAmountOfPoints.dll
+D:\Projects\CodeWars\TotalAmountOfPoints\obj\Debug\net5.0\refint\TotalAmountOfPoints.dll
+D:\Projects\CodeWars\TotalAmountOfPoints\obj\Debug\net5.0\TotalAmountOfPoints.pdb
+D:\Projects\CodeWars\TotalAmountOfPoints\obj\Debug\net5.0\TotalAmountOfPoints.genruntimeconfig.cache
+D:\Projects\CodeWars\TotalAmountOfPoints\obj\Debug\net5.0\ref\TotalAmountOfPoints.dll

@@ -1,0 +1,16 @@
+D:\Projects\CodeWars\MultiplyEveryDigitInNumber\bin\Debug\net5.0\MultiplyEveryDigitInNumber.exe
+D:\Projects\CodeWars\MultiplyEveryDigitInNumber\bin\Debug\net5.0\MultiplyEveryDigitInNumber.deps.json
+D:\Projects\CodeWars\MultiplyEveryDigitInNumber\bin\Debug\net5.0\MultiplyEveryDigitInNumber.runtimeconfig.json
+D:\Projects\CodeWars\MultiplyEveryDigitInNumber\bin\Debug\net5.0\MultiplyEveryDigitInNumber.runtimeconfig.dev.json
+D:\Projects\CodeWars\MultiplyEveryDigitInNumber\bin\Debug\net5.0\MultiplyEveryDigitInNumber.dll
+D:\Projects\CodeWars\MultiplyEveryDigitInNumber\bin\Debug\net5.0\MultiplyEveryDigitInNumber.pdb
+D:\Projects\CodeWars\MultiplyEveryDigitInNumber\obj\Debug\net5.0\MultiplyEveryDigitInNumber.csproj.AssemblyReference.cache
+D:\Projects\CodeWars\MultiplyEveryDigitInNumber\obj\Debug\net5.0\MultiplyEveryDigitInNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeWars\MultiplyEveryDigitInNumber\obj\Debug\net5.0\MultiplyEveryDigitInNumber.AssemblyInfoInputs.cache
+D:\Projects\CodeWars\MultiplyEveryDigitInNumber\obj\Debug\net5.0\MultiplyEveryDigitInNumber.AssemblyInfo.cs
+D:\Projects\CodeWars\MultiplyEveryDigitInNumber\obj\Debug\net5.0\MultiplyEveryDigitInNumber.csproj.CoreCompileInputs.cache
+D:\Projects\CodeWars\MultiplyEveryDigitInNumber\obj\Debug\net5.0\MultiplyEveryDigitInNumber.dll
+D:\Projects\CodeWars\MultiplyEveryDigitInNumber\obj\Debug\net5.0\refint\MultiplyEveryDigitInNumber.dll
+D:\Projects\CodeWars\MultiplyEveryDigitInNumber\obj\Debug\net5.0\MultiplyEveryDigitInNumber.pdb
+D:\Projects\CodeWars\MultiplyEveryDigitInNumber\obj\Debug\net5.0\MultiplyEveryDigitInNumber.genruntimeconfig.cache
+D:\Projects\CodeWars\MultiplyEveryDigitInNumber\obj\Debug\net5.0\ref\MultiplyEveryDigitInNumber.dll

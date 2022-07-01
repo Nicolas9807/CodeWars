@@ -1,0 +1,16 @@
+D:\Projects\CodeWars\Isograma\bin\Debug\net5.0\Isograma.exe
+D:\Projects\CodeWars\Isograma\bin\Debug\net5.0\Isograma.deps.json
+D:\Projects\CodeWars\Isograma\bin\Debug\net5.0\Isograma.runtimeconfig.json
+D:\Projects\CodeWars\Isograma\bin\Debug\net5.0\Isograma.runtimeconfig.dev.json
+D:\Projects\CodeWars\Isograma\bin\Debug\net5.0\Isograma.dll
+D:\Projects\CodeWars\Isograma\bin\Debug\net5.0\Isograma.pdb
+D:\Projects\CodeWars\Isograma\obj\Debug\net5.0\Isograma.csproj.AssemblyReference.cache
+D:\Projects\CodeWars\Isograma\obj\Debug\net5.0\Isograma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeWars\Isograma\obj\Debug\net5.0\Isograma.AssemblyInfoInputs.cache
+D:\Projects\CodeWars\Isograma\obj\Debug\net5.0\Isograma.AssemblyInfo.cs
+D:\Projects\CodeWars\Isograma\obj\Debug\net5.0\Isograma.csproj.CoreCompileInputs.cache
+D:\Projects\CodeWars\Isograma\obj\Debug\net5.0\Isograma.dll
+D:\Projects\CodeWars\Isograma\obj\Debug\net5.0\refint\Isograma.dll
+D:\Projects\CodeWars\Isograma\obj\Debug\net5.0\Isograma.pdb
+D:\Projects\CodeWars\Isograma\obj\Debug\net5.0\Isograma.genruntimeconfig.cache
+D:\Projects\CodeWars\Isograma\obj\Debug\net5.0\ref\Isograma.dll

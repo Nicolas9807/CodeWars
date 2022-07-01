@@ -1,0 +1,16 @@
+D:\Projects\CodeWars\ReverseWords\bin\Debug\net5.0\ReverseWords.exe
+D:\Projects\CodeWars\ReverseWords\bin\Debug\net5.0\ReverseWords.deps.json
+D:\Projects\CodeWars\ReverseWords\bin\Debug\net5.0\ReverseWords.runtimeconfig.json
+D:\Projects\CodeWars\ReverseWords\bin\Debug\net5.0\ReverseWords.runtimeconfig.dev.json
+D:\Projects\CodeWars\ReverseWords\bin\Debug\net5.0\ReverseWords.dll
+D:\Projects\CodeWars\ReverseWords\bin\Debug\net5.0\ReverseWords.pdb
+D:\Projects\CodeWars\ReverseWords\obj\Debug\net5.0\ReverseWords.csproj.AssemblyReference.cache
+D:\Projects\CodeWars\ReverseWords\obj\Debug\net5.0\ReverseWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeWars\ReverseWords\obj\Debug\net5.0\ReverseWords.AssemblyInfoInputs.cache
+D:\Projects\CodeWars\ReverseWords\obj\Debug\net5.0\ReverseWords.AssemblyInfo.cs
+D:\Projects\CodeWars\ReverseWords\obj\Debug\net5.0\ReverseWords.csproj.CoreCompileInputs.cache
+D:\Projects\CodeWars\ReverseWords\obj\Debug\net5.0\ReverseWords.dll
+D:\Projects\CodeWars\ReverseWords\obj\Debug\net5.0\refint\ReverseWords.dll
+D:\Projects\CodeWars\ReverseWords\obj\Debug\net5.0\ReverseWords.pdb
+D:\Projects\CodeWars\ReverseWords\obj\Debug\net5.0\ReverseWords.genruntimeconfig.cache
+D:\Projects\CodeWars\ReverseWords\obj\Debug\net5.0\ref\ReverseWords.dll

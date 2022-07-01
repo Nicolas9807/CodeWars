@@ -1,0 +1,16 @@
+D:\Projects\CodeWars\ComputeBMI\bin\Debug\net5.0\ComputeBMI.exe
+D:\Projects\CodeWars\ComputeBMI\bin\Debug\net5.0\ComputeBMI.deps.json
+D:\Projects\CodeWars\ComputeBMI\bin\Debug\net5.0\ComputeBMI.runtimeconfig.json
+D:\Projects\CodeWars\ComputeBMI\bin\Debug\net5.0\ComputeBMI.runtimeconfig.dev.json
+D:\Projects\CodeWars\ComputeBMI\bin\Debug\net5.0\ComputeBMI.dll
+D:\Projects\CodeWars\ComputeBMI\bin\Debug\net5.0\ComputeBMI.pdb
+D:\Projects\CodeWars\ComputeBMI\obj\Debug\net5.0\ComputeBMI.csproj.AssemblyReference.cache
+D:\Projects\CodeWars\ComputeBMI\obj\Debug\net5.0\ComputeBMI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeWars\ComputeBMI\obj\Debug\net5.0\ComputeBMI.AssemblyInfoInputs.cache
+D:\Projects\CodeWars\ComputeBMI\obj\Debug\net5.0\ComputeBMI.AssemblyInfo.cs
+D:\Projects\CodeWars\ComputeBMI\obj\Debug\net5.0\ComputeBMI.csproj.CoreCompileInputs.cache
+D:\Projects\CodeWars\ComputeBMI\obj\Debug\net5.0\ComputeBMI.dll
+D:\Projects\CodeWars\ComputeBMI\obj\Debug\net5.0\refint\ComputeBMI.dll
+D:\Projects\CodeWars\ComputeBMI\obj\Debug\net5.0\ComputeBMI.pdb
+D:\Projects\CodeWars\ComputeBMI\obj\Debug\net5.0\ComputeBMI.genruntimeconfig.cache
+D:\Projects\CodeWars\ComputeBMI\obj\Debug\net5.0\ref\ComputeBMI.dll

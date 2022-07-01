@@ -1,0 +1,16 @@
+D:\Projects\CodeWars\GetMiddle\bin\Debug\net5.0\GetMiddle.exe
+D:\Projects\CodeWars\GetMiddle\bin\Debug\net5.0\GetMiddle.deps.json
+D:\Projects\CodeWars\GetMiddle\bin\Debug\net5.0\GetMiddle.runtimeconfig.json
+D:\Projects\CodeWars\GetMiddle\bin\Debug\net5.0\GetMiddle.runtimeconfig.dev.json
+D:\Projects\CodeWars\GetMiddle\bin\Debug\net5.0\GetMiddle.dll
+D:\Projects\CodeWars\GetMiddle\bin\Debug\net5.0\GetMiddle.pdb
+D:\Projects\CodeWars\GetMiddle\obj\Debug\net5.0\GetMiddle.csproj.AssemblyReference.cache
+D:\Projects\CodeWars\GetMiddle\obj\Debug\net5.0\GetMiddle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeWars\GetMiddle\obj\Debug\net5.0\GetMiddle.AssemblyInfoInputs.cache
+D:\Projects\CodeWars\GetMiddle\obj\Debug\net5.0\GetMiddle.AssemblyInfo.cs
+D:\Projects\CodeWars\GetMiddle\obj\Debug\net5.0\GetMiddle.csproj.CoreCompileInputs.cache
+D:\Projects\CodeWars\GetMiddle\obj\Debug\net5.0\GetMiddle.dll
+D:\Projects\CodeWars\GetMiddle\obj\Debug\net5.0\refint\GetMiddle.dll
+D:\Projects\CodeWars\GetMiddle\obj\Debug\net5.0\GetMiddle.pdb
+D:\Projects\CodeWars\GetMiddle\obj\Debug\net5.0\GetMiddle.genruntimeconfig.cache
+D:\Projects\CodeWars\GetMiddle\obj\Debug\net5.0\ref\GetMiddle.dll

@@ -1,0 +1,16 @@
+D:\Projects\CodeWars\AppendSheeps\bin\Debug\net5.0\AppendSheeps.exe
+D:\Projects\CodeWars\AppendSheeps\bin\Debug\net5.0\AppendSheeps.deps.json
+D:\Projects\CodeWars\AppendSheeps\bin\Debug\net5.0\AppendSheeps.runtimeconfig.json
+D:\Projects\CodeWars\AppendSheeps\bin\Debug\net5.0\AppendSheeps.runtimeconfig.dev.json
+D:\Projects\CodeWars\AppendSheeps\bin\Debug\net5.0\AppendSheeps.dll
+D:\Projects\CodeWars\AppendSheeps\bin\Debug\net5.0\AppendSheeps.pdb
+D:\Projects\CodeWars\AppendSheeps\obj\Debug\net5.0\AppendSheeps.csproj.AssemblyReference.cache
+D:\Projects\CodeWars\AppendSheeps\obj\Debug\net5.0\AppendSheeps.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeWars\AppendSheeps\obj\Debug\net5.0\AppendSheeps.AssemblyInfoInputs.cache
+D:\Projects\CodeWars\AppendSheeps\obj\Debug\net5.0\AppendSheeps.AssemblyInfo.cs
+D:\Projects\CodeWars\AppendSheeps\obj\Debug\net5.0\AppendSheeps.csproj.CoreCompileInputs.cache
+D:\Projects\CodeWars\AppendSheeps\obj\Debug\net5.0\AppendSheeps.dll
+D:\Projects\CodeWars\AppendSheeps\obj\Debug\net5.0\refint\AppendSheeps.dll
+D:\Projects\CodeWars\AppendSheeps\obj\Debug\net5.0\AppendSheeps.pdb
+D:\Projects\CodeWars\AppendSheeps\obj\Debug\net5.0\AppendSheeps.genruntimeconfig.cache
+D:\Projects\CodeWars\AppendSheeps\obj\Debug\net5.0\ref\AppendSheeps.dll

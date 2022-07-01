@@ -1,0 +1,16 @@
+D:\Projects\CodeWars\Assemble string\bin\Debug\net5.0\Assemble string.exe
+D:\Projects\CodeWars\Assemble string\bin\Debug\net5.0\Assemble string.deps.json
+D:\Projects\CodeWars\Assemble string\bin\Debug\net5.0\Assemble string.runtimeconfig.json
+D:\Projects\CodeWars\Assemble string\bin\Debug\net5.0\Assemble string.runtimeconfig.dev.json
+D:\Projects\CodeWars\Assemble string\bin\Debug\net5.0\Assemble string.dll
+D:\Projects\CodeWars\Assemble string\bin\Debug\net5.0\Assemble string.pdb
+D:\Projects\CodeWars\Assemble string\obj\Debug\net5.0\Assemble string.csproj.AssemblyReference.cache
+D:\Projects\CodeWars\Assemble string\obj\Debug\net5.0\Assemble string.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeWars\Assemble string\obj\Debug\net5.0\Assemble string.AssemblyInfoInputs.cache
+D:\Projects\CodeWars\Assemble string\obj\Debug\net5.0\Assemble string.AssemblyInfo.cs
+D:\Projects\CodeWars\Assemble string\obj\Debug\net5.0\Assemble string.csproj.CoreCompileInputs.cache
+D:\Projects\CodeWars\Assemble string\obj\Debug\net5.0\Assemble string.dll
+D:\Projects\CodeWars\Assemble string\obj\Debug\net5.0\refint\Assemble string.dll
+D:\Projects\CodeWars\Assemble string\obj\Debug\net5.0\Assemble string.pdb
+D:\Projects\CodeWars\Assemble string\obj\Debug\net5.0\Assemble string.genruntimeconfig.cache
+D:\Projects\CodeWars\Assemble string\obj\Debug\net5.0\ref\Assemble string.dll

@@ -1,0 +1,16 @@
+D:\Projects\CodeWars\StringToArrayOfStrings\bin\Debug\net5.0\StringToArrayOfStrings.exe
+D:\Projects\CodeWars\StringToArrayOfStrings\bin\Debug\net5.0\StringToArrayOfStrings.deps.json
+D:\Projects\CodeWars\StringToArrayOfStrings\bin\Debug\net5.0\StringToArrayOfStrings.runtimeconfig.json
+D:\Projects\CodeWars\StringToArrayOfStrings\bin\Debug\net5.0\StringToArrayOfStrings.runtimeconfig.dev.json
+D:\Projects\CodeWars\StringToArrayOfStrings\bin\Debug\net5.0\StringToArrayOfStrings.dll
+D:\Projects\CodeWars\StringToArrayOfStrings\bin\Debug\net5.0\StringToArrayOfStrings.pdb
+D:\Projects\CodeWars\StringToArrayOfStrings\obj\Debug\net5.0\StringToArrayOfStrings.csproj.AssemblyReference.cache
+D:\Projects\CodeWars\StringToArrayOfStrings\obj\Debug\net5.0\StringToArrayOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeWars\StringToArrayOfStrings\obj\Debug\net5.0\StringToArrayOfStrings.AssemblyInfoInputs.cache
+D:\Projects\CodeWars\StringToArrayOfStrings\obj\Debug\net5.0\StringToArrayOfStrings.AssemblyInfo.cs
+D:\Projects\CodeWars\StringToArrayOfStrings\obj\Debug\net5.0\StringToArrayOfStrings.csproj.CoreCompileInputs.cache
+D:\Projects\CodeWars\StringToArrayOfStrings\obj\Debug\net5.0\StringToArrayOfStrings.dll
+D:\Projects\CodeWars\StringToArrayOfStrings\obj\Debug\net5.0\refint\StringToArrayOfStrings.dll
+D:\Projects\CodeWars\StringToArrayOfStrings\obj\Debug\net5.0\StringToArrayOfStrings.pdb
+D:\Projects\CodeWars\StringToArrayOfStrings\obj\Debug\net5.0\StringToArrayOfStrings.genruntimeconfig.cache
+D:\Projects\CodeWars\StringToArrayOfStrings\obj\Debug\net5.0\ref\StringToArrayOfStrings.dll

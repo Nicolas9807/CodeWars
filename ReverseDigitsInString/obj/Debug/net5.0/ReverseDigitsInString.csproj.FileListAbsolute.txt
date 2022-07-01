@@ -1,0 +1,16 @@
+D:\Projects\CodeWars\ReverseDigitsInString\bin\Debug\net5.0\ReverseDigitsInString.exe
+D:\Projects\CodeWars\ReverseDigitsInString\bin\Debug\net5.0\ReverseDigitsInString.deps.json
+D:\Projects\CodeWars\ReverseDigitsInString\bin\Debug\net5.0\ReverseDigitsInString.runtimeconfig.json
+D:\Projects\CodeWars\ReverseDigitsInString\bin\Debug\net5.0\ReverseDigitsInString.runtimeconfig.dev.json
+D:\Projects\CodeWars\ReverseDigitsInString\bin\Debug\net5.0\ReverseDigitsInString.dll
+D:\Projects\CodeWars\ReverseDigitsInString\bin\Debug\net5.0\ReverseDigitsInString.pdb
+D:\Projects\CodeWars\ReverseDigitsInString\obj\Debug\net5.0\ReverseDigitsInString.csproj.AssemblyReference.cache
+D:\Projects\CodeWars\ReverseDigitsInString\obj\Debug\net5.0\ReverseDigitsInString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeWars\ReverseDigitsInString\obj\Debug\net5.0\ReverseDigitsInString.AssemblyInfoInputs.cache
+D:\Projects\CodeWars\ReverseDigitsInString\obj\Debug\net5.0\ReverseDigitsInString.AssemblyInfo.cs
+D:\Projects\CodeWars\ReverseDigitsInString\obj\Debug\net5.0\ReverseDigitsInString.csproj.CoreCompileInputs.cache
+D:\Projects\CodeWars\ReverseDigitsInString\obj\Debug\net5.0\ReverseDigitsInString.dll
+D:\Projects\CodeWars\ReverseDigitsInString\obj\Debug\net5.0\refint\ReverseDigitsInString.dll
+D:\Projects\CodeWars\ReverseDigitsInString\obj\Debug\net5.0\ReverseDigitsInString.pdb
+D:\Projects\CodeWars\ReverseDigitsInString\obj\Debug\net5.0\ReverseDigitsInString.genruntimeconfig.cache
+D:\Projects\CodeWars\ReverseDigitsInString\obj\Debug\net5.0\ref\ReverseDigitsInString.dll

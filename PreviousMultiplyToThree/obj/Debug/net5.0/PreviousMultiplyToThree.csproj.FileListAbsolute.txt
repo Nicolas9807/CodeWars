@@ -1,0 +1,16 @@
+D:\Projects\CodeWars\PreviousMultiplyToThree\bin\Debug\net5.0\PreviousMultiplyToThree.exe
+D:\Projects\CodeWars\PreviousMultiplyToThree\bin\Debug\net5.0\PreviousMultiplyToThree.deps.json
+D:\Projects\CodeWars\PreviousMultiplyToThree\bin\Debug\net5.0\PreviousMultiplyToThree.runtimeconfig.json
+D:\Projects\CodeWars\PreviousMultiplyToThree\bin\Debug\net5.0\PreviousMultiplyToThree.runtimeconfig.dev.json
+D:\Projects\CodeWars\PreviousMultiplyToThree\bin\Debug\net5.0\PreviousMultiplyToThree.dll
+D:\Projects\CodeWars\PreviousMultiplyToThree\bin\Debug\net5.0\PreviousMultiplyToThree.pdb
+D:\Projects\CodeWars\PreviousMultiplyToThree\obj\Debug\net5.0\PreviousMultiplyToThree.csproj.AssemblyReference.cache
+D:\Projects\CodeWars\PreviousMultiplyToThree\obj\Debug\net5.0\PreviousMultiplyToThree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeWars\PreviousMultiplyToThree\obj\Debug\net5.0\PreviousMultiplyToThree.AssemblyInfoInputs.cache
+D:\Projects\CodeWars\PreviousMultiplyToThree\obj\Debug\net5.0\PreviousMultiplyToThree.AssemblyInfo.cs
+D:\Projects\CodeWars\PreviousMultiplyToThree\obj\Debug\net5.0\PreviousMultiplyToThree.csproj.CoreCompileInputs.cache
+D:\Projects\CodeWars\PreviousMultiplyToThree\obj\Debug\net5.0\PreviousMultiplyToThree.dll
+D:\Projects\CodeWars\PreviousMultiplyToThree\obj\Debug\net5.0\refint\PreviousMultiplyToThree.dll
+D:\Projects\CodeWars\PreviousMultiplyToThree\obj\Debug\net5.0\PreviousMultiplyToThree.pdb
+D:\Projects\CodeWars\PreviousMultiplyToThree\obj\Debug\net5.0\PreviousMultiplyToThree.genruntimeconfig.cache
+D:\Projects\CodeWars\PreviousMultiplyToThree\obj\Debug\net5.0\ref\PreviousMultiplyToThree.dll

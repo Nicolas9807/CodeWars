@@ -1,0 +1,16 @@
+D:\Projects\CodeWars\TwoDimArray\bin\Debug\net5.0\TwoDimArray.exe
+D:\Projects\CodeWars\TwoDimArray\bin\Debug\net5.0\TwoDimArray.deps.json
+D:\Projects\CodeWars\TwoDimArray\bin\Debug\net5.0\TwoDimArray.runtimeconfig.json
+D:\Projects\CodeWars\TwoDimArray\bin\Debug\net5.0\TwoDimArray.runtimeconfig.dev.json
+D:\Projects\CodeWars\TwoDimArray\bin\Debug\net5.0\TwoDimArray.dll
+D:\Projects\CodeWars\TwoDimArray\bin\Debug\net5.0\TwoDimArray.pdb
+D:\Projects\CodeWars\TwoDimArray\obj\Debug\net5.0\TwoDimArray.csproj.AssemblyReference.cache
+D:\Projects\CodeWars\TwoDimArray\obj\Debug\net5.0\TwoDimArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeWars\TwoDimArray\obj\Debug\net5.0\TwoDimArray.AssemblyInfoInputs.cache
+D:\Projects\CodeWars\TwoDimArray\obj\Debug\net5.0\TwoDimArray.AssemblyInfo.cs
+D:\Projects\CodeWars\TwoDimArray\obj\Debug\net5.0\TwoDimArray.csproj.CoreCompileInputs.cache
+D:\Projects\CodeWars\TwoDimArray\obj\Debug\net5.0\TwoDimArray.dll
+D:\Projects\CodeWars\TwoDimArray\obj\Debug\net5.0\refint\TwoDimArray.dll
+D:\Projects\CodeWars\TwoDimArray\obj\Debug\net5.0\TwoDimArray.pdb
+D:\Projects\CodeWars\TwoDimArray\obj\Debug\net5.0\TwoDimArray.genruntimeconfig.cache
+D:\Projects\CodeWars\TwoDimArray\obj\Debug\net5.0\ref\TwoDimArray.dll

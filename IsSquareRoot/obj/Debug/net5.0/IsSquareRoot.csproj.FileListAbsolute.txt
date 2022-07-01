@@ -1,0 +1,16 @@
+D:\Projects\CodeWars\IsSquareRoot\bin\Debug\net5.0\IsSquareRoot.exe
+D:\Projects\CodeWars\IsSquareRoot\bin\Debug\net5.0\IsSquareRoot.deps.json
+D:\Projects\CodeWars\IsSquareRoot\bin\Debug\net5.0\IsSquareRoot.runtimeconfig.json
+D:\Projects\CodeWars\IsSquareRoot\bin\Debug\net5.0\IsSquareRoot.runtimeconfig.dev.json
+D:\Projects\CodeWars\IsSquareRoot\bin\Debug\net5.0\IsSquareRoot.dll
+D:\Projects\CodeWars\IsSquareRoot\bin\Debug\net5.0\IsSquareRoot.pdb
+D:\Projects\CodeWars\IsSquareRoot\obj\Debug\net5.0\IsSquareRoot.csproj.AssemblyReference.cache
+D:\Projects\CodeWars\IsSquareRoot\obj\Debug\net5.0\IsSquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeWars\IsSquareRoot\obj\Debug\net5.0\IsSquareRoot.AssemblyInfoInputs.cache
+D:\Projects\CodeWars\IsSquareRoot\obj\Debug\net5.0\IsSquareRoot.AssemblyInfo.cs
+D:\Projects\CodeWars\IsSquareRoot\obj\Debug\net5.0\IsSquareRoot.csproj.CoreCompileInputs.cache
+D:\Projects\CodeWars\IsSquareRoot\obj\Debug\net5.0\IsSquareRoot.dll
+D:\Projects\CodeWars\IsSquareRoot\obj\Debug\net5.0\refint\IsSquareRoot.dll
+D:\Projects\CodeWars\IsSquareRoot\obj\Debug\net5.0\IsSquareRoot.pdb
+D:\Projects\CodeWars\IsSquareRoot\obj\Debug\net5.0\IsSquareRoot.genruntimeconfig.cache
+D:\Projects\CodeWars\IsSquareRoot\obj\Debug\net5.0\ref\IsSquareRoot.dll

@@ -1,0 +1,16 @@
+D:\Projects\CodeWars\ObjectArrayToIntArray\bin\Debug\net5.0\ObjectArrayToIntArray.exe
+D:\Projects\CodeWars\ObjectArrayToIntArray\bin\Debug\net5.0\ObjectArrayToIntArray.deps.json
+D:\Projects\CodeWars\ObjectArrayToIntArray\bin\Debug\net5.0\ObjectArrayToIntArray.runtimeconfig.json
+D:\Projects\CodeWars\ObjectArrayToIntArray\bin\Debug\net5.0\ObjectArrayToIntArray.runtimeconfig.dev.json
+D:\Projects\CodeWars\ObjectArrayToIntArray\bin\Debug\net5.0\ObjectArrayToIntArray.dll
+D:\Projects\CodeWars\ObjectArrayToIntArray\bin\Debug\net5.0\ObjectArrayToIntArray.pdb
+D:\Projects\CodeWars\ObjectArrayToIntArray\obj\Debug\net5.0\ObjectArrayToIntArray.csproj.AssemblyReference.cache
+D:\Projects\CodeWars\ObjectArrayToIntArray\obj\Debug\net5.0\ObjectArrayToIntArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeWars\ObjectArrayToIntArray\obj\Debug\net5.0\ObjectArrayToIntArray.AssemblyInfoInputs.cache
+D:\Projects\CodeWars\ObjectArrayToIntArray\obj\Debug\net5.0\ObjectArrayToIntArray.AssemblyInfo.cs
+D:\Projects\CodeWars\ObjectArrayToIntArray\obj\Debug\net5.0\ObjectArrayToIntArray.csproj.CoreCompileInputs.cache
+D:\Projects\CodeWars\ObjectArrayToIntArray\obj\Debug\net5.0\ObjectArrayToIntArray.dll
+D:\Projects\CodeWars\ObjectArrayToIntArray\obj\Debug\net5.0\refint\ObjectArrayToIntArray.dll
+D:\Projects\CodeWars\ObjectArrayToIntArray\obj\Debug\net5.0\ObjectArrayToIntArray.pdb
+D:\Projects\CodeWars\ObjectArrayToIntArray\obj\Debug\net5.0\ObjectArrayToIntArray.genruntimeconfig.cache
+D:\Projects\CodeWars\ObjectArrayToIntArray\obj\Debug\net5.0\ref\ObjectArrayToIntArray.dll

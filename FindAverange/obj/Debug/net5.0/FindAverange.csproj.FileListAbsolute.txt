@@ -1,0 +1,16 @@
+D:\Projects\CodeWars\FindAverange\bin\Debug\net5.0\FindAverange.exe
+D:\Projects\CodeWars\FindAverange\bin\Debug\net5.0\FindAverange.deps.json
+D:\Projects\CodeWars\FindAverange\bin\Debug\net5.0\FindAverange.runtimeconfig.json
+D:\Projects\CodeWars\FindAverange\bin\Debug\net5.0\FindAverange.runtimeconfig.dev.json
+D:\Projects\CodeWars\FindAverange\bin\Debug\net5.0\FindAverange.dll
+D:\Projects\CodeWars\FindAverange\bin\Debug\net5.0\FindAverange.pdb
+D:\Projects\CodeWars\FindAverange\obj\Debug\net5.0\FindAverange.csproj.AssemblyReference.cache
+D:\Projects\CodeWars\FindAverange\obj\Debug\net5.0\FindAverange.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeWars\FindAverange\obj\Debug\net5.0\FindAverange.AssemblyInfoInputs.cache
+D:\Projects\CodeWars\FindAverange\obj\Debug\net5.0\FindAverange.AssemblyInfo.cs
+D:\Projects\CodeWars\FindAverange\obj\Debug\net5.0\FindAverange.csproj.CoreCompileInputs.cache
+D:\Projects\CodeWars\FindAverange\obj\Debug\net5.0\FindAverange.dll
+D:\Projects\CodeWars\FindAverange\obj\Debug\net5.0\refint\FindAverange.dll
+D:\Projects\CodeWars\FindAverange\obj\Debug\net5.0\FindAverange.pdb
+D:\Projects\CodeWars\FindAverange\obj\Debug\net5.0\FindAverange.genruntimeconfig.cache
+D:\Projects\CodeWars\FindAverange\obj\Debug\net5.0\ref\FindAverange.dll

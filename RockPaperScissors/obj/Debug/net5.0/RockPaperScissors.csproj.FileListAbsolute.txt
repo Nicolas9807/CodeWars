@@ -1,0 +1,16 @@
+D:\Projects\CodeWars\RockPaperScissors\bin\Debug\net5.0\RockPaperScissors.exe
+D:\Projects\CodeWars\RockPaperScissors\bin\Debug\net5.0\RockPaperScissors.deps.json
+D:\Projects\CodeWars\RockPaperScissors\bin\Debug\net5.0\RockPaperScissors.runtimeconfig.json
+D:\Projects\CodeWars\RockPaperScissors\bin\Debug\net5.0\RockPaperScissors.runtimeconfig.dev.json
+D:\Projects\CodeWars\RockPaperScissors\bin\Debug\net5.0\RockPaperScissors.dll
+D:\Projects\CodeWars\RockPaperScissors\bin\Debug\net5.0\RockPaperScissors.pdb
+D:\Projects\CodeWars\RockPaperScissors\obj\Debug\net5.0\RockPaperScissors.csproj.AssemblyReference.cache
+D:\Projects\CodeWars\RockPaperScissors\obj\Debug\net5.0\RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeWars\RockPaperScissors\obj\Debug\net5.0\RockPaperScissors.AssemblyInfoInputs.cache
+D:\Projects\CodeWars\RockPaperScissors\obj\Debug\net5.0\RockPaperScissors.AssemblyInfo.cs
+D:\Projects\CodeWars\RockPaperScissors\obj\Debug\net5.0\RockPaperScissors.csproj.CoreCompileInputs.cache
+D:\Projects\CodeWars\RockPaperScissors\obj\Debug\net5.0\RockPaperScissors.dll
+D:\Projects\CodeWars\RockPaperScissors\obj\Debug\net5.0\refint\RockPaperScissors.dll
+D:\Projects\CodeWars\RockPaperScissors\obj\Debug\net5.0\RockPaperScissors.pdb
+D:\Projects\CodeWars\RockPaperScissors\obj\Debug\net5.0\RockPaperScissors.genruntimeconfig.cache
+D:\Projects\CodeWars\RockPaperScissors\obj\Debug\net5.0\ref\RockPaperScissors.dll

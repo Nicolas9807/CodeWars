@@ -1,0 +1,16 @@
+D:\Projects\CodeWars\TextCorrection\bin\Debug\net5.0\TextCorrection.exe
+D:\Projects\CodeWars\TextCorrection\bin\Debug\net5.0\TextCorrection.deps.json
+D:\Projects\CodeWars\TextCorrection\bin\Debug\net5.0\TextCorrection.runtimeconfig.json
+D:\Projects\CodeWars\TextCorrection\bin\Debug\net5.0\TextCorrection.runtimeconfig.dev.json
+D:\Projects\CodeWars\TextCorrection\bin\Debug\net5.0\TextCorrection.dll
+D:\Projects\CodeWars\TextCorrection\bin\Debug\net5.0\TextCorrection.pdb
+D:\Projects\CodeWars\TextCorrection\obj\Debug\net5.0\TextCorrection.csproj.AssemblyReference.cache
+D:\Projects\CodeWars\TextCorrection\obj\Debug\net5.0\TextCorrection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeWars\TextCorrection\obj\Debug\net5.0\TextCorrection.AssemblyInfoInputs.cache
+D:\Projects\CodeWars\TextCorrection\obj\Debug\net5.0\TextCorrection.AssemblyInfo.cs
+D:\Projects\CodeWars\TextCorrection\obj\Debug\net5.0\TextCorrection.csproj.CoreCompileInputs.cache
+D:\Projects\CodeWars\TextCorrection\obj\Debug\net5.0\TextCorrection.dll
+D:\Projects\CodeWars\TextCorrection\obj\Debug\net5.0\refint\TextCorrection.dll
+D:\Projects\CodeWars\TextCorrection\obj\Debug\net5.0\TextCorrection.pdb
+D:\Projects\CodeWars\TextCorrection\obj\Debug\net5.0\TextCorrection.genruntimeconfig.cache
+D:\Projects\CodeWars\TextCorrection\obj\Debug\net5.0\ref\TextCorrection.dll

@@ -1,0 +1,16 @@
+D:\Projects\CodeWars\CompareValuesFromArrayAndVariable\bin\Debug\net5.0\CompareValuesFromArrayAndVariable.exe
+D:\Projects\CodeWars\CompareValuesFromArrayAndVariable\bin\Debug\net5.0\CompareValuesFromArrayAndVariable.deps.json
+D:\Projects\CodeWars\CompareValuesFromArrayAndVariable\bin\Debug\net5.0\CompareValuesFromArrayAndVariable.runtimeconfig.json
+D:\Projects\CodeWars\CompareValuesFromArrayAndVariable\bin\Debug\net5.0\CompareValuesFromArrayAndVariable.runtimeconfig.dev.json
+D:\Projects\CodeWars\CompareValuesFromArrayAndVariable\bin\Debug\net5.0\CompareValuesFromArrayAndVariable.dll
+D:\Projects\CodeWars\CompareValuesFromArrayAndVariable\bin\Debug\net5.0\CompareValuesFromArrayAndVariable.pdb
+D:\Projects\CodeWars\CompareValuesFromArrayAndVariable\obj\Debug\net5.0\CompareValuesFromArrayAndVariable.csproj.AssemblyReference.cache
+D:\Projects\CodeWars\CompareValuesFromArrayAndVariable\obj\Debug\net5.0\CompareValuesFromArrayAndVariable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeWars\CompareValuesFromArrayAndVariable\obj\Debug\net5.0\CompareValuesFromArrayAndVariable.AssemblyInfoInputs.cache
+D:\Projects\CodeWars\CompareValuesFromArrayAndVariable\obj\Debug\net5.0\CompareValuesFromArrayAndVariable.AssemblyInfo.cs
+D:\Projects\CodeWars\CompareValuesFromArrayAndVariable\obj\Debug\net5.0\CompareValuesFromArrayAndVariable.csproj.CoreCompileInputs.cache
+D:\Projects\CodeWars\CompareValuesFromArrayAndVariable\obj\Debug\net5.0\CompareValuesFromArrayAndVariable.dll
+D:\Projects\CodeWars\CompareValuesFromArrayAndVariable\obj\Debug\net5.0\refint\CompareValuesFromArrayAndVariable.dll
+D:\Projects\CodeWars\CompareValuesFromArrayAndVariable\obj\Debug\net5.0\CompareValuesFromArrayAndVariable.pdb
+D:\Projects\CodeWars\CompareValuesFromArrayAndVariable\obj\Debug\net5.0\CompareValuesFromArrayAndVariable.genruntimeconfig.cache
+D:\Projects\CodeWars\CompareValuesFromArrayAndVariable\obj\Debug\net5.0\ref\CompareValuesFromArrayAndVariable.dll

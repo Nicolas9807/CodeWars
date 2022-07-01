@@ -1,0 +1,16 @@
+D:\Projects\CodeWars\Mumbling\bin\Debug\net5.0\Mumbling.exe
+D:\Projects\CodeWars\Mumbling\bin\Debug\net5.0\Mumbling.deps.json
+D:\Projects\CodeWars\Mumbling\bin\Debug\net5.0\Mumbling.runtimeconfig.json
+D:\Projects\CodeWars\Mumbling\bin\Debug\net5.0\Mumbling.runtimeconfig.dev.json
+D:\Projects\CodeWars\Mumbling\bin\Debug\net5.0\Mumbling.dll
+D:\Projects\CodeWars\Mumbling\bin\Debug\net5.0\Mumbling.pdb
+D:\Projects\CodeWars\Mumbling\obj\Debug\net5.0\Mumbling.csproj.AssemblyReference.cache
+D:\Projects\CodeWars\Mumbling\obj\Debug\net5.0\Mumbling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeWars\Mumbling\obj\Debug\net5.0\Mumbling.AssemblyInfoInputs.cache
+D:\Projects\CodeWars\Mumbling\obj\Debug\net5.0\Mumbling.AssemblyInfo.cs
+D:\Projects\CodeWars\Mumbling\obj\Debug\net5.0\Mumbling.csproj.CoreCompileInputs.cache
+D:\Projects\CodeWars\Mumbling\obj\Debug\net5.0\Mumbling.dll
+D:\Projects\CodeWars\Mumbling\obj\Debug\net5.0\refint\Mumbling.dll
+D:\Projects\CodeWars\Mumbling\obj\Debug\net5.0\Mumbling.pdb
+D:\Projects\CodeWars\Mumbling\obj\Debug\net5.0\Mumbling.genruntimeconfig.cache
+D:\Projects\CodeWars\Mumbling\obj\Debug\net5.0\ref\Mumbling.dll

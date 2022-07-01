@@ -1,0 +1,16 @@
+D:\Projects\CodeWars\RentalCar\bin\Debug\net5.0\RentalCar.exe
+D:\Projects\CodeWars\RentalCar\bin\Debug\net5.0\RentalCar.deps.json
+D:\Projects\CodeWars\RentalCar\bin\Debug\net5.0\RentalCar.runtimeconfig.json
+D:\Projects\CodeWars\RentalCar\bin\Debug\net5.0\RentalCar.runtimeconfig.dev.json
+D:\Projects\CodeWars\RentalCar\bin\Debug\net5.0\RentalCar.dll
+D:\Projects\CodeWars\RentalCar\bin\Debug\net5.0\RentalCar.pdb
+D:\Projects\CodeWars\RentalCar\obj\Debug\net5.0\RentalCar.csproj.AssemblyReference.cache
+D:\Projects\CodeWars\RentalCar\obj\Debug\net5.0\RentalCar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeWars\RentalCar\obj\Debug\net5.0\RentalCar.AssemblyInfoInputs.cache
+D:\Projects\CodeWars\RentalCar\obj\Debug\net5.0\RentalCar.AssemblyInfo.cs
+D:\Projects\CodeWars\RentalCar\obj\Debug\net5.0\RentalCar.csproj.CoreCompileInputs.cache
+D:\Projects\CodeWars\RentalCar\obj\Debug\net5.0\RentalCar.dll
+D:\Projects\CodeWars\RentalCar\obj\Debug\net5.0\refint\RentalCar.dll
+D:\Projects\CodeWars\RentalCar\obj\Debug\net5.0\RentalCar.pdb
+D:\Projects\CodeWars\RentalCar\obj\Debug\net5.0\RentalCar.genruntimeconfig.cache
+D:\Projects\CodeWars\RentalCar\obj\Debug\net5.0\ref\RentalCar.dll

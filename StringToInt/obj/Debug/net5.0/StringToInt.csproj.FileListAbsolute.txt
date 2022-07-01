@@ -1,0 +1,16 @@
+D:\Projects\CodeWars\StringToInt\bin\Debug\net5.0\StringToInt.exe
+D:\Projects\CodeWars\StringToInt\bin\Debug\net5.0\StringToInt.deps.json
+D:\Projects\CodeWars\StringToInt\bin\Debug\net5.0\StringToInt.runtimeconfig.json
+D:\Projects\CodeWars\StringToInt\bin\Debug\net5.0\StringToInt.runtimeconfig.dev.json
+D:\Projects\CodeWars\StringToInt\bin\Debug\net5.0\StringToInt.dll
+D:\Projects\CodeWars\StringToInt\bin\Debug\net5.0\StringToInt.pdb
+D:\Projects\CodeWars\StringToInt\obj\Debug\net5.0\StringToInt.csproj.AssemblyReference.cache
+D:\Projects\CodeWars\StringToInt\obj\Debug\net5.0\StringToInt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeWars\StringToInt\obj\Debug\net5.0\StringToInt.AssemblyInfoInputs.cache
+D:\Projects\CodeWars\StringToInt\obj\Debug\net5.0\StringToInt.AssemblyInfo.cs
+D:\Projects\CodeWars\StringToInt\obj\Debug\net5.0\StringToInt.csproj.CoreCompileInputs.cache
+D:\Projects\CodeWars\StringToInt\obj\Debug\net5.0\StringToInt.dll
+D:\Projects\CodeWars\StringToInt\obj\Debug\net5.0\refint\StringToInt.dll
+D:\Projects\CodeWars\StringToInt\obj\Debug\net5.0\StringToInt.pdb
+D:\Projects\CodeWars\StringToInt\obj\Debug\net5.0\StringToInt.genruntimeconfig.cache
+D:\Projects\CodeWars\StringToInt\obj\Debug\net5.0\ref\StringToInt.dll

@@ -1,0 +1,16 @@
+D:\Projects\CodeWars\JadenCase\bin\Debug\net5.0\JadenCase.exe
+D:\Projects\CodeWars\JadenCase\bin\Debug\net5.0\JadenCase.deps.json
+D:\Projects\CodeWars\JadenCase\bin\Debug\net5.0\JadenCase.runtimeconfig.json
+D:\Projects\CodeWars\JadenCase\bin\Debug\net5.0\JadenCase.runtimeconfig.dev.json
+D:\Projects\CodeWars\JadenCase\bin\Debug\net5.0\JadenCase.dll
+D:\Projects\CodeWars\JadenCase\bin\Debug\net5.0\JadenCase.pdb
+D:\Projects\CodeWars\JadenCase\obj\Debug\net5.0\JadenCase.csproj.AssemblyReference.cache
+D:\Projects\CodeWars\JadenCase\obj\Debug\net5.0\JadenCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeWars\JadenCase\obj\Debug\net5.0\JadenCase.AssemblyInfoInputs.cache
+D:\Projects\CodeWars\JadenCase\obj\Debug\net5.0\JadenCase.AssemblyInfo.cs
+D:\Projects\CodeWars\JadenCase\obj\Debug\net5.0\JadenCase.csproj.CoreCompileInputs.cache
+D:\Projects\CodeWars\JadenCase\obj\Debug\net5.0\JadenCase.dll
+D:\Projects\CodeWars\JadenCase\obj\Debug\net5.0\refint\JadenCase.dll
+D:\Projects\CodeWars\JadenCase\obj\Debug\net5.0\JadenCase.pdb
+D:\Projects\CodeWars\JadenCase\obj\Debug\net5.0\JadenCase.genruntimeconfig.cache
+D:\Projects\CodeWars\JadenCase\obj\Debug\net5.0\ref\JadenCase.dll

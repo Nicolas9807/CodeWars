@@ -1,0 +1,16 @@
+D:\Projects\CodeWars\SortDigitsInNumber\bin\Debug\net5.0\SortDigitsInNumber.exe
+D:\Projects\CodeWars\SortDigitsInNumber\bin\Debug\net5.0\SortDigitsInNumber.deps.json
+D:\Projects\CodeWars\SortDigitsInNumber\bin\Debug\net5.0\SortDigitsInNumber.runtimeconfig.json
+D:\Projects\CodeWars\SortDigitsInNumber\bin\Debug\net5.0\SortDigitsInNumber.runtimeconfig.dev.json
+D:\Projects\CodeWars\SortDigitsInNumber\bin\Debug\net5.0\SortDigitsInNumber.dll
+D:\Projects\CodeWars\SortDigitsInNumber\bin\Debug\net5.0\SortDigitsInNumber.pdb
+D:\Projects\CodeWars\SortDigitsInNumber\obj\Debug\net5.0\SortDigitsInNumber.csproj.AssemblyReference.cache
+D:\Projects\CodeWars\SortDigitsInNumber\obj\Debug\net5.0\SortDigitsInNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeWars\SortDigitsInNumber\obj\Debug\net5.0\SortDigitsInNumber.AssemblyInfoInputs.cache
+D:\Projects\CodeWars\SortDigitsInNumber\obj\Debug\net5.0\SortDigitsInNumber.AssemblyInfo.cs
+D:\Projects\CodeWars\SortDigitsInNumber\obj\Debug\net5.0\SortDigitsInNumber.csproj.CoreCompileInputs.cache
+D:\Projects\CodeWars\SortDigitsInNumber\obj\Debug\net5.0\SortDigitsInNumber.dll
+D:\Projects\CodeWars\SortDigitsInNumber\obj\Debug\net5.0\refint\SortDigitsInNumber.dll
+D:\Projects\CodeWars\SortDigitsInNumber\obj\Debug\net5.0\SortDigitsInNumber.pdb
+D:\Projects\CodeWars\SortDigitsInNumber\obj\Debug\net5.0\SortDigitsInNumber.genruntimeconfig.cache
+D:\Projects\CodeWars\SortDigitsInNumber\obj\Debug\net5.0\ref\SortDigitsInNumber.dll

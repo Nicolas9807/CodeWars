@@ -1,0 +1,16 @@
+D:\Projects\CodeWars\MaskCardNumber\bin\Debug\net5.0\MaskCardNumber.exe
+D:\Projects\CodeWars\MaskCardNumber\bin\Debug\net5.0\MaskCardNumber.deps.json
+D:\Projects\CodeWars\MaskCardNumber\bin\Debug\net5.0\MaskCardNumber.runtimeconfig.json
+D:\Projects\CodeWars\MaskCardNumber\bin\Debug\net5.0\MaskCardNumber.runtimeconfig.dev.json
+D:\Projects\CodeWars\MaskCardNumber\bin\Debug\net5.0\MaskCardNumber.dll
+D:\Projects\CodeWars\MaskCardNumber\bin\Debug\net5.0\MaskCardNumber.pdb
+D:\Projects\CodeWars\MaskCardNumber\obj\Debug\net5.0\MaskCardNumber.csproj.AssemblyReference.cache
+D:\Projects\CodeWars\MaskCardNumber\obj\Debug\net5.0\MaskCardNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeWars\MaskCardNumber\obj\Debug\net5.0\MaskCardNumber.AssemblyInfoInputs.cache
+D:\Projects\CodeWars\MaskCardNumber\obj\Debug\net5.0\MaskCardNumber.AssemblyInfo.cs
+D:\Projects\CodeWars\MaskCardNumber\obj\Debug\net5.0\MaskCardNumber.csproj.CoreCompileInputs.cache
+D:\Projects\CodeWars\MaskCardNumber\obj\Debug\net5.0\MaskCardNumber.dll
+D:\Projects\CodeWars\MaskCardNumber\obj\Debug\net5.0\refint\MaskCardNumber.dll
+D:\Projects\CodeWars\MaskCardNumber\obj\Debug\net5.0\MaskCardNumber.pdb
+D:\Projects\CodeWars\MaskCardNumber\obj\Debug\net5.0\MaskCardNumber.genruntimeconfig.cache
+D:\Projects\CodeWars\MaskCardNumber\obj\Debug\net5.0\ref\MaskCardNumber.dll

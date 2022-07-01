@@ -1,0 +1,16 @@
+D:\Projects\CodeWars\CountOfPositiveAndSumOfNegative\bin\Debug\net5.0\CountOfPositiveAndSumOfNegative.exe
+D:\Projects\CodeWars\CountOfPositiveAndSumOfNegative\bin\Debug\net5.0\CountOfPositiveAndSumOfNegative.deps.json
+D:\Projects\CodeWars\CountOfPositiveAndSumOfNegative\bin\Debug\net5.0\CountOfPositiveAndSumOfNegative.runtimeconfig.json
+D:\Projects\CodeWars\CountOfPositiveAndSumOfNegative\bin\Debug\net5.0\CountOfPositiveAndSumOfNegative.runtimeconfig.dev.json
+D:\Projects\CodeWars\CountOfPositiveAndSumOfNegative\bin\Debug\net5.0\CountOfPositiveAndSumOfNegative.dll
+D:\Projects\CodeWars\CountOfPositiveAndSumOfNegative\bin\Debug\net5.0\CountOfPositiveAndSumOfNegative.pdb
+D:\Projects\CodeWars\CountOfPositiveAndSumOfNegative\obj\Debug\net5.0\CountOfPositiveAndSumOfNegative.csproj.AssemblyReference.cache
+D:\Projects\CodeWars\CountOfPositiveAndSumOfNegative\obj\Debug\net5.0\CountOfPositiveAndSumOfNegative.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeWars\CountOfPositiveAndSumOfNegative\obj\Debug\net5.0\CountOfPositiveAndSumOfNegative.AssemblyInfoInputs.cache
+D:\Projects\CodeWars\CountOfPositiveAndSumOfNegative\obj\Debug\net5.0\CountOfPositiveAndSumOfNegative.AssemblyInfo.cs
+D:\Projects\CodeWars\CountOfPositiveAndSumOfNegative\obj\Debug\net5.0\CountOfPositiveAndSumOfNegative.csproj.CoreCompileInputs.cache
+D:\Projects\CodeWars\CountOfPositiveAndSumOfNegative\obj\Debug\net5.0\CountOfPositiveAndSumOfNegative.dll
+D:\Projects\CodeWars\CountOfPositiveAndSumOfNegative\obj\Debug\net5.0\refint\CountOfPositiveAndSumOfNegative.dll
+D:\Projects\CodeWars\CountOfPositiveAndSumOfNegative\obj\Debug\net5.0\CountOfPositiveAndSumOfNegative.pdb
+D:\Projects\CodeWars\CountOfPositiveAndSumOfNegative\obj\Debug\net5.0\CountOfPositiveAndSumOfNegative.genruntimeconfig.cache
+D:\Projects\CodeWars\CountOfPositiveAndSumOfNegative\obj\Debug\net5.0\ref\CountOfPositiveAndSumOfNegative.dll

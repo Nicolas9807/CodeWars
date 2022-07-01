@@ -1,0 +1,16 @@
+D:\Projects\CodeWars\NeedleInHaystack\bin\Debug\net5.0\NeedleInHaystack.exe
+D:\Projects\CodeWars\NeedleInHaystack\bin\Debug\net5.0\NeedleInHaystack.deps.json
+D:\Projects\CodeWars\NeedleInHaystack\bin\Debug\net5.0\NeedleInHaystack.runtimeconfig.json
+D:\Projects\CodeWars\NeedleInHaystack\bin\Debug\net5.0\NeedleInHaystack.runtimeconfig.dev.json
+D:\Projects\CodeWars\NeedleInHaystack\bin\Debug\net5.0\NeedleInHaystack.dll
+D:\Projects\CodeWars\NeedleInHaystack\bin\Debug\net5.0\NeedleInHaystack.pdb
+D:\Projects\CodeWars\NeedleInHaystack\obj\Debug\net5.0\NeedleInHaystack.csproj.AssemblyReference.cache
+D:\Projects\CodeWars\NeedleInHaystack\obj\Debug\net5.0\NeedleInHaystack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeWars\NeedleInHaystack\obj\Debug\net5.0\NeedleInHaystack.AssemblyInfoInputs.cache
+D:\Projects\CodeWars\NeedleInHaystack\obj\Debug\net5.0\NeedleInHaystack.AssemblyInfo.cs
+D:\Projects\CodeWars\NeedleInHaystack\obj\Debug\net5.0\NeedleInHaystack.csproj.CoreCompileInputs.cache
+D:\Projects\CodeWars\NeedleInHaystack\obj\Debug\net5.0\NeedleInHaystack.dll
+D:\Projects\CodeWars\NeedleInHaystack\obj\Debug\net5.0\refint\NeedleInHaystack.dll
+D:\Projects\CodeWars\NeedleInHaystack\obj\Debug\net5.0\NeedleInHaystack.pdb
+D:\Projects\CodeWars\NeedleInHaystack\obj\Debug\net5.0\NeedleInHaystack.genruntimeconfig.cache
+D:\Projects\CodeWars\NeedleInHaystack\obj\Debug\net5.0\ref\NeedleInHaystack.dll

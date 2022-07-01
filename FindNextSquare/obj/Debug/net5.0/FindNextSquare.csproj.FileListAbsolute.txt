@@ -1,0 +1,16 @@
+D:\Projects\CodeWars\FindNextSquare\bin\Debug\net5.0\FindNextSquare.exe
+D:\Projects\CodeWars\FindNextSquare\bin\Debug\net5.0\FindNextSquare.deps.json
+D:\Projects\CodeWars\FindNextSquare\bin\Debug\net5.0\FindNextSquare.runtimeconfig.json
+D:\Projects\CodeWars\FindNextSquare\bin\Debug\net5.0\FindNextSquare.runtimeconfig.dev.json
+D:\Projects\CodeWars\FindNextSquare\bin\Debug\net5.0\FindNextSquare.dll
+D:\Projects\CodeWars\FindNextSquare\bin\Debug\net5.0\FindNextSquare.pdb
+D:\Projects\CodeWars\FindNextSquare\obj\Debug\net5.0\FindNextSquare.csproj.AssemblyReference.cache
+D:\Projects\CodeWars\FindNextSquare\obj\Debug\net5.0\FindNextSquare.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeWars\FindNextSquare\obj\Debug\net5.0\FindNextSquare.AssemblyInfoInputs.cache
+D:\Projects\CodeWars\FindNextSquare\obj\Debug\net5.0\FindNextSquare.AssemblyInfo.cs
+D:\Projects\CodeWars\FindNextSquare\obj\Debug\net5.0\FindNextSquare.csproj.CoreCompileInputs.cache
+D:\Projects\CodeWars\FindNextSquare\obj\Debug\net5.0\FindNextSquare.dll
+D:\Projects\CodeWars\FindNextSquare\obj\Debug\net5.0\refint\FindNextSquare.dll
+D:\Projects\CodeWars\FindNextSquare\obj\Debug\net5.0\FindNextSquare.pdb
+D:\Projects\CodeWars\FindNextSquare\obj\Debug\net5.0\FindNextSquare.genruntimeconfig.cache
+D:\Projects\CodeWars\FindNextSquare\obj\Debug\net5.0\ref\FindNextSquare.dll

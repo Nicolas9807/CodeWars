@@ -1,0 +1,16 @@
+D:\Projects\CodeWars\HowDeleteSymbolFromString\bin\Debug\net5.0\HowDeleteSymbolFromString.exe
+D:\Projects\CodeWars\HowDeleteSymbolFromString\bin\Debug\net5.0\HowDeleteSymbolFromString.deps.json
+D:\Projects\CodeWars\HowDeleteSymbolFromString\bin\Debug\net5.0\HowDeleteSymbolFromString.runtimeconfig.json
+D:\Projects\CodeWars\HowDeleteSymbolFromString\bin\Debug\net5.0\HowDeleteSymbolFromString.runtimeconfig.dev.json
+D:\Projects\CodeWars\HowDeleteSymbolFromString\bin\Debug\net5.0\HowDeleteSymbolFromString.dll
+D:\Projects\CodeWars\HowDeleteSymbolFromString\bin\Debug\net5.0\HowDeleteSymbolFromString.pdb
+D:\Projects\CodeWars\HowDeleteSymbolFromString\obj\Debug\net5.0\HowDeleteSymbolFromString.csproj.AssemblyReference.cache
+D:\Projects\CodeWars\HowDeleteSymbolFromString\obj\Debug\net5.0\HowDeleteSymbolFromString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeWars\HowDeleteSymbolFromString\obj\Debug\net5.0\HowDeleteSymbolFromString.AssemblyInfoInputs.cache
+D:\Projects\CodeWars\HowDeleteSymbolFromString\obj\Debug\net5.0\HowDeleteSymbolFromString.AssemblyInfo.cs
+D:\Projects\CodeWars\HowDeleteSymbolFromString\obj\Debug\net5.0\HowDeleteSymbolFromString.csproj.CoreCompileInputs.cache
+D:\Projects\CodeWars\HowDeleteSymbolFromString\obj\Debug\net5.0\HowDeleteSymbolFromString.dll
+D:\Projects\CodeWars\HowDeleteSymbolFromString\obj\Debug\net5.0\refint\HowDeleteSymbolFromString.dll
+D:\Projects\CodeWars\HowDeleteSymbolFromString\obj\Debug\net5.0\HowDeleteSymbolFromString.pdb
+D:\Projects\CodeWars\HowDeleteSymbolFromString\obj\Debug\net5.0\HowDeleteSymbolFromString.genruntimeconfig.cache
+D:\Projects\CodeWars\HowDeleteSymbolFromString\obj\Debug\net5.0\ref\HowDeleteSymbolFromString.dll

@@ -1,0 +1,16 @@
+D:\Projects\CodeWars\AddingStarToSymbols\bin\Debug\net5.0\AddingStarToSymbols.exe
+D:\Projects\CodeWars\AddingStarToSymbols\bin\Debug\net5.0\AddingStarToSymbols.deps.json
+D:\Projects\CodeWars\AddingStarToSymbols\bin\Debug\net5.0\AddingStarToSymbols.runtimeconfig.json
+D:\Projects\CodeWars\AddingStarToSymbols\bin\Debug\net5.0\AddingStarToSymbols.runtimeconfig.dev.json
+D:\Projects\CodeWars\AddingStarToSymbols\bin\Debug\net5.0\AddingStarToSymbols.dll
+D:\Projects\CodeWars\AddingStarToSymbols\bin\Debug\net5.0\AddingStarToSymbols.pdb
+D:\Projects\CodeWars\AddingStarToSymbols\obj\Debug\net5.0\AddingStarToSymbols.csproj.AssemblyReference.cache
+D:\Projects\CodeWars\AddingStarToSymbols\obj\Debug\net5.0\AddingStarToSymbols.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeWars\AddingStarToSymbols\obj\Debug\net5.0\AddingStarToSymbols.AssemblyInfoInputs.cache
+D:\Projects\CodeWars\AddingStarToSymbols\obj\Debug\net5.0\AddingStarToSymbols.AssemblyInfo.cs
+D:\Projects\CodeWars\AddingStarToSymbols\obj\Debug\net5.0\AddingStarToSymbols.csproj.CoreCompileInputs.cache
+D:\Projects\CodeWars\AddingStarToSymbols\obj\Debug\net5.0\AddingStarToSymbols.dll
+D:\Projects\CodeWars\AddingStarToSymbols\obj\Debug\net5.0\refint\AddingStarToSymbols.dll
+D:\Projects\CodeWars\AddingStarToSymbols\obj\Debug\net5.0\AddingStarToSymbols.pdb
+D:\Projects\CodeWars\AddingStarToSymbols\obj\Debug\net5.0\AddingStarToSymbols.genruntimeconfig.cache
+D:\Projects\CodeWars\AddingStarToSymbols\obj\Debug\net5.0\ref\AddingStarToSymbols.dll

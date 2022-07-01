@@ -1,0 +1,16 @@
+D:\Projects\CodeWars\SumFromRange\bin\Debug\net5.0\SumFromRange.exe
+D:\Projects\CodeWars\SumFromRange\bin\Debug\net5.0\SumFromRange.deps.json
+D:\Projects\CodeWars\SumFromRange\bin\Debug\net5.0\SumFromRange.runtimeconfig.json
+D:\Projects\CodeWars\SumFromRange\bin\Debug\net5.0\SumFromRange.runtimeconfig.dev.json
+D:\Projects\CodeWars\SumFromRange\bin\Debug\net5.0\SumFromRange.dll
+D:\Projects\CodeWars\SumFromRange\bin\Debug\net5.0\SumFromRange.pdb
+D:\Projects\CodeWars\SumFromRange\obj\Debug\net5.0\SumFromRange.csproj.AssemblyReference.cache
+D:\Projects\CodeWars\SumFromRange\obj\Debug\net5.0\SumFromRange.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeWars\SumFromRange\obj\Debug\net5.0\SumFromRange.AssemblyInfoInputs.cache
+D:\Projects\CodeWars\SumFromRange\obj\Debug\net5.0\SumFromRange.AssemblyInfo.cs
+D:\Projects\CodeWars\SumFromRange\obj\Debug\net5.0\SumFromRange.csproj.CoreCompileInputs.cache
+D:\Projects\CodeWars\SumFromRange\obj\Debug\net5.0\SumFromRange.dll
+D:\Projects\CodeWars\SumFromRange\obj\Debug\net5.0\refint\SumFromRange.dll
+D:\Projects\CodeWars\SumFromRange\obj\Debug\net5.0\SumFromRange.pdb
+D:\Projects\CodeWars\SumFromRange\obj\Debug\net5.0\SumFromRange.genruntimeconfig.cache
+D:\Projects\CodeWars\SumFromRange\obj\Debug\net5.0\ref\SumFromRange.dll

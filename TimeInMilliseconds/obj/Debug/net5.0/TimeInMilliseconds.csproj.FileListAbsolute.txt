@@ -1,0 +1,16 @@
+D:\Projects\CodeWars\TimeInMilliseconds\bin\Debug\net5.0\TimeInMilliseconds.exe
+D:\Projects\CodeWars\TimeInMilliseconds\bin\Debug\net5.0\TimeInMilliseconds.deps.json
+D:\Projects\CodeWars\TimeInMilliseconds\bin\Debug\net5.0\TimeInMilliseconds.runtimeconfig.json
+D:\Projects\CodeWars\TimeInMilliseconds\bin\Debug\net5.0\TimeInMilliseconds.runtimeconfig.dev.json
+D:\Projects\CodeWars\TimeInMilliseconds\bin\Debug\net5.0\TimeInMilliseconds.dll
+D:\Projects\CodeWars\TimeInMilliseconds\bin\Debug\net5.0\TimeInMilliseconds.pdb
+D:\Projects\CodeWars\TimeInMilliseconds\obj\Debug\net5.0\TimeInMilliseconds.csproj.AssemblyReference.cache
+D:\Projects\CodeWars\TimeInMilliseconds\obj\Debug\net5.0\TimeInMilliseconds.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeWars\TimeInMilliseconds\obj\Debug\net5.0\TimeInMilliseconds.AssemblyInfoInputs.cache
+D:\Projects\CodeWars\TimeInMilliseconds\obj\Debug\net5.0\TimeInMilliseconds.AssemblyInfo.cs
+D:\Projects\CodeWars\TimeInMilliseconds\obj\Debug\net5.0\TimeInMilliseconds.csproj.CoreCompileInputs.cache
+D:\Projects\CodeWars\TimeInMilliseconds\obj\Debug\net5.0\TimeInMilliseconds.dll
+D:\Projects\CodeWars\TimeInMilliseconds\obj\Debug\net5.0\refint\TimeInMilliseconds.dll
+D:\Projects\CodeWars\TimeInMilliseconds\obj\Debug\net5.0\TimeInMilliseconds.pdb
+D:\Projects\CodeWars\TimeInMilliseconds\obj\Debug\net5.0\TimeInMilliseconds.genruntimeconfig.cache
+D:\Projects\CodeWars\TimeInMilliseconds\obj\Debug\net5.0\ref\TimeInMilliseconds.dll

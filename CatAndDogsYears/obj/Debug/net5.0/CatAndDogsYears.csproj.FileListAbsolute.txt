@@ -1,0 +1,16 @@
+D:\Projects\CodeWars\CatAndDogsYears\bin\Debug\net5.0\CatAndDogsYears.exe
+D:\Projects\CodeWars\CatAndDogsYears\bin\Debug\net5.0\CatAndDogsYears.deps.json
+D:\Projects\CodeWars\CatAndDogsYears\bin\Debug\net5.0\CatAndDogsYears.runtimeconfig.json
+D:\Projects\CodeWars\CatAndDogsYears\bin\Debug\net5.0\CatAndDogsYears.runtimeconfig.dev.json
+D:\Projects\CodeWars\CatAndDogsYears\bin\Debug\net5.0\CatAndDogsYears.dll
+D:\Projects\CodeWars\CatAndDogsYears\bin\Debug\net5.0\CatAndDogsYears.pdb
+D:\Projects\CodeWars\CatAndDogsYears\obj\Debug\net5.0\CatAndDogsYears.csproj.AssemblyReference.cache
+D:\Projects\CodeWars\CatAndDogsYears\obj\Debug\net5.0\CatAndDogsYears.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeWars\CatAndDogsYears\obj\Debug\net5.0\CatAndDogsYears.AssemblyInfoInputs.cache
+D:\Projects\CodeWars\CatAndDogsYears\obj\Debug\net5.0\CatAndDogsYears.AssemblyInfo.cs
+D:\Projects\CodeWars\CatAndDogsYears\obj\Debug\net5.0\CatAndDogsYears.csproj.CoreCompileInputs.cache
+D:\Projects\CodeWars\CatAndDogsYears\obj\Debug\net5.0\CatAndDogsYears.dll
+D:\Projects\CodeWars\CatAndDogsYears\obj\Debug\net5.0\refint\CatAndDogsYears.dll
+D:\Projects\CodeWars\CatAndDogsYears\obj\Debug\net5.0\CatAndDogsYears.pdb
+D:\Projects\CodeWars\CatAndDogsYears\obj\Debug\net5.0\CatAndDogsYears.genruntimeconfig.cache
+D:\Projects\CodeWars\CatAndDogsYears\obj\Debug\net5.0\ref\CatAndDogsYears.dll

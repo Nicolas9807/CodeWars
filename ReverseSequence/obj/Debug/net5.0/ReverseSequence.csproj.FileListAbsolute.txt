@@ -1,0 +1,16 @@
+D:\Projects\CodeWars\ReverseSequence\bin\Debug\net5.0\ReverseSequence.exe
+D:\Projects\CodeWars\ReverseSequence\bin\Debug\net5.0\ReverseSequence.deps.json
+D:\Projects\CodeWars\ReverseSequence\bin\Debug\net5.0\ReverseSequence.runtimeconfig.json
+D:\Projects\CodeWars\ReverseSequence\bin\Debug\net5.0\ReverseSequence.runtimeconfig.dev.json
+D:\Projects\CodeWars\ReverseSequence\bin\Debug\net5.0\ReverseSequence.dll
+D:\Projects\CodeWars\ReverseSequence\bin\Debug\net5.0\ReverseSequence.pdb
+D:\Projects\CodeWars\ReverseSequence\obj\Debug\net5.0\ReverseSequence.csproj.AssemblyReference.cache
+D:\Projects\CodeWars\ReverseSequence\obj\Debug\net5.0\ReverseSequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeWars\ReverseSequence\obj\Debug\net5.0\ReverseSequence.AssemblyInfoInputs.cache
+D:\Projects\CodeWars\ReverseSequence\obj\Debug\net5.0\ReverseSequence.AssemblyInfo.cs
+D:\Projects\CodeWars\ReverseSequence\obj\Debug\net5.0\ReverseSequence.csproj.CoreCompileInputs.cache
+D:\Projects\CodeWars\ReverseSequence\obj\Debug\net5.0\ReverseSequence.dll
+D:\Projects\CodeWars\ReverseSequence\obj\Debug\net5.0\refint\ReverseSequence.dll
+D:\Projects\CodeWars\ReverseSequence\obj\Debug\net5.0\ReverseSequence.pdb
+D:\Projects\CodeWars\ReverseSequence\obj\Debug\net5.0\ReverseSequence.genruntimeconfig.cache
+D:\Projects\CodeWars\ReverseSequence\obj\Debug\net5.0\ref\ReverseSequence.dll

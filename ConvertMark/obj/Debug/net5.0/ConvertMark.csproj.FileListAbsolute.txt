@@ -1,0 +1,16 @@
+D:\Projects\CodeWars\ConvertMark\bin\Debug\net5.0\ConvertMark.exe
+D:\Projects\CodeWars\ConvertMark\bin\Debug\net5.0\ConvertMark.deps.json
+D:\Projects\CodeWars\ConvertMark\bin\Debug\net5.0\ConvertMark.runtimeconfig.json
+D:\Projects\CodeWars\ConvertMark\bin\Debug\net5.0\ConvertMark.runtimeconfig.dev.json
+D:\Projects\CodeWars\ConvertMark\bin\Debug\net5.0\ConvertMark.dll
+D:\Projects\CodeWars\ConvertMark\bin\Debug\net5.0\ConvertMark.pdb
+D:\Projects\CodeWars\ConvertMark\obj\Debug\net5.0\ConvertMark.csproj.AssemblyReference.cache
+D:\Projects\CodeWars\ConvertMark\obj\Debug\net5.0\ConvertMark.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeWars\ConvertMark\obj\Debug\net5.0\ConvertMark.AssemblyInfoInputs.cache
+D:\Projects\CodeWars\ConvertMark\obj\Debug\net5.0\ConvertMark.AssemblyInfo.cs
+D:\Projects\CodeWars\ConvertMark\obj\Debug\net5.0\ConvertMark.csproj.CoreCompileInputs.cache
+D:\Projects\CodeWars\ConvertMark\obj\Debug\net5.0\ConvertMark.dll
+D:\Projects\CodeWars\ConvertMark\obj\Debug\net5.0\refint\ConvertMark.dll
+D:\Projects\CodeWars\ConvertMark\obj\Debug\net5.0\ConvertMark.pdb
+D:\Projects\CodeWars\ConvertMark\obj\Debug\net5.0\ConvertMark.genruntimeconfig.cache
+D:\Projects\CodeWars\ConvertMark\obj\Debug\net5.0\ref\ConvertMark.dll

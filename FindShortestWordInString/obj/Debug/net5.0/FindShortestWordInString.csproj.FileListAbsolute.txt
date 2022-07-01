@@ -1,0 +1,16 @@
+D:\Projects\CodeWars\FindShortestWordInString\bin\Debug\net5.0\FindShortestWordInString.exe
+D:\Projects\CodeWars\FindShortestWordInString\bin\Debug\net5.0\FindShortestWordInString.deps.json
+D:\Projects\CodeWars\FindShortestWordInString\bin\Debug\net5.0\FindShortestWordInString.runtimeconfig.json
+D:\Projects\CodeWars\FindShortestWordInString\bin\Debug\net5.0\FindShortestWordInString.runtimeconfig.dev.json
+D:\Projects\CodeWars\FindShortestWordInString\bin\Debug\net5.0\FindShortestWordInString.dll
+D:\Projects\CodeWars\FindShortestWordInString\bin\Debug\net5.0\FindShortestWordInString.pdb
+D:\Projects\CodeWars\FindShortestWordInString\obj\Debug\net5.0\FindShortestWordInString.csproj.AssemblyReference.cache
+D:\Projects\CodeWars\FindShortestWordInString\obj\Debug\net5.0\FindShortestWordInString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeWars\FindShortestWordInString\obj\Debug\net5.0\FindShortestWordInString.AssemblyInfoInputs.cache
+D:\Projects\CodeWars\FindShortestWordInString\obj\Debug\net5.0\FindShortestWordInString.AssemblyInfo.cs
+D:\Projects\CodeWars\FindShortestWordInString\obj\Debug\net5.0\FindShortestWordInString.csproj.CoreCompileInputs.cache
+D:\Projects\CodeWars\FindShortestWordInString\obj\Debug\net5.0\FindShortestWordInString.dll
+D:\Projects\CodeWars\FindShortestWordInString\obj\Debug\net5.0\refint\FindShortestWordInString.dll
+D:\Projects\CodeWars\FindShortestWordInString\obj\Debug\net5.0\FindShortestWordInString.pdb
+D:\Projects\CodeWars\FindShortestWordInString\obj\Debug\net5.0\FindShortestWordInString.genruntimeconfig.cache
+D:\Projects\CodeWars\FindShortestWordInString\obj\Debug\net5.0\ref\FindShortestWordInString.dll

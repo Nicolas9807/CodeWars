@@ -1,0 +1,16 @@
+D:\Projects\CodeWars\ChangeNumberInString\bin\Debug\net5.0\ChangeNumberInString.exe
+D:\Projects\CodeWars\ChangeNumberInString\bin\Debug\net5.0\ChangeNumberInString.deps.json
+D:\Projects\CodeWars\ChangeNumberInString\bin\Debug\net5.0\ChangeNumberInString.runtimeconfig.json
+D:\Projects\CodeWars\ChangeNumberInString\bin\Debug\net5.0\ChangeNumberInString.runtimeconfig.dev.json
+D:\Projects\CodeWars\ChangeNumberInString\bin\Debug\net5.0\ChangeNumberInString.dll
+D:\Projects\CodeWars\ChangeNumberInString\bin\Debug\net5.0\ChangeNumberInString.pdb
+D:\Projects\CodeWars\ChangeNumberInString\obj\Debug\net5.0\ChangeNumberInString.csproj.AssemblyReference.cache
+D:\Projects\CodeWars\ChangeNumberInString\obj\Debug\net5.0\ChangeNumberInString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeWars\ChangeNumberInString\obj\Debug\net5.0\ChangeNumberInString.AssemblyInfoInputs.cache
+D:\Projects\CodeWars\ChangeNumberInString\obj\Debug\net5.0\ChangeNumberInString.AssemblyInfo.cs
+D:\Projects\CodeWars\ChangeNumberInString\obj\Debug\net5.0\ChangeNumberInString.csproj.CoreCompileInputs.cache
+D:\Projects\CodeWars\ChangeNumberInString\obj\Debug\net5.0\ChangeNumberInString.dll
+D:\Projects\CodeWars\ChangeNumberInString\obj\Debug\net5.0\refint\ChangeNumberInString.dll
+D:\Projects\CodeWars\ChangeNumberInString\obj\Debug\net5.0\ChangeNumberInString.pdb
+D:\Projects\CodeWars\ChangeNumberInString\obj\Debug\net5.0\ChangeNumberInString.genruntimeconfig.cache
+D:\Projects\CodeWars\ChangeNumberInString\obj\Debug\net5.0\ref\ChangeNumberInString.dll

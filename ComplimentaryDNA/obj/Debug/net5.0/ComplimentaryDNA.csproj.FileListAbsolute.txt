@@ -1,0 +1,16 @@
+D:\Projects\CodeWars\ComplimentaryDNA\bin\Debug\net5.0\ComplimentaryDNA.exe
+D:\Projects\CodeWars\ComplimentaryDNA\bin\Debug\net5.0\ComplimentaryDNA.deps.json
+D:\Projects\CodeWars\ComplimentaryDNA\bin\Debug\net5.0\ComplimentaryDNA.runtimeconfig.json
+D:\Projects\CodeWars\ComplimentaryDNA\bin\Debug\net5.0\ComplimentaryDNA.runtimeconfig.dev.json
+D:\Projects\CodeWars\ComplimentaryDNA\bin\Debug\net5.0\ComplimentaryDNA.dll
+D:\Projects\CodeWars\ComplimentaryDNA\bin\Debug\net5.0\ComplimentaryDNA.pdb
+D:\Projects\CodeWars\ComplimentaryDNA\obj\Debug\net5.0\ComplimentaryDNA.csproj.AssemblyReference.cache
+D:\Projects\CodeWars\ComplimentaryDNA\obj\Debug\net5.0\ComplimentaryDNA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeWars\ComplimentaryDNA\obj\Debug\net5.0\ComplimentaryDNA.AssemblyInfoInputs.cache
+D:\Projects\CodeWars\ComplimentaryDNA\obj\Debug\net5.0\ComplimentaryDNA.AssemblyInfo.cs
+D:\Projects\CodeWars\ComplimentaryDNA\obj\Debug\net5.0\ComplimentaryDNA.csproj.CoreCompileInputs.cache
+D:\Projects\CodeWars\ComplimentaryDNA\obj\Debug\net5.0\ComplimentaryDNA.dll
+D:\Projects\CodeWars\ComplimentaryDNA\obj\Debug\net5.0\refint\ComplimentaryDNA.dll
+D:\Projects\CodeWars\ComplimentaryDNA\obj\Debug\net5.0\ComplimentaryDNA.pdb
+D:\Projects\CodeWars\ComplimentaryDNA\obj\Debug\net5.0\ComplimentaryDNA.genruntimeconfig.cache
+D:\Projects\CodeWars\ComplimentaryDNA\obj\Debug\net5.0\ref\ComplimentaryDNA.dll

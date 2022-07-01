@@ -1,0 +1,16 @@
+D:\Projects\CodeWars\MinAndMaxNumberInString\bin\Debug\net5.0\MinAndMaxNumberInString.exe
+D:\Projects\CodeWars\MinAndMaxNumberInString\bin\Debug\net5.0\MinAndMaxNumberInString.deps.json
+D:\Projects\CodeWars\MinAndMaxNumberInString\bin\Debug\net5.0\MinAndMaxNumberInString.runtimeconfig.json
+D:\Projects\CodeWars\MinAndMaxNumberInString\bin\Debug\net5.0\MinAndMaxNumberInString.runtimeconfig.dev.json
+D:\Projects\CodeWars\MinAndMaxNumberInString\bin\Debug\net5.0\MinAndMaxNumberInString.dll
+D:\Projects\CodeWars\MinAndMaxNumberInString\bin\Debug\net5.0\MinAndMaxNumberInString.pdb
+D:\Projects\CodeWars\MinAndMaxNumberInString\obj\Debug\net5.0\MinAndMaxNumberInString.csproj.AssemblyReference.cache
+D:\Projects\CodeWars\MinAndMaxNumberInString\obj\Debug\net5.0\MinAndMaxNumberInString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeWars\MinAndMaxNumberInString\obj\Debug\net5.0\MinAndMaxNumberInString.AssemblyInfoInputs.cache
+D:\Projects\CodeWars\MinAndMaxNumberInString\obj\Debug\net5.0\MinAndMaxNumberInString.AssemblyInfo.cs
+D:\Projects\CodeWars\MinAndMaxNumberInString\obj\Debug\net5.0\MinAndMaxNumberInString.csproj.CoreCompileInputs.cache
+D:\Projects\CodeWars\MinAndMaxNumberInString\obj\Debug\net5.0\MinAndMaxNumberInString.dll
+D:\Projects\CodeWars\MinAndMaxNumberInString\obj\Debug\net5.0\refint\MinAndMaxNumberInString.dll
+D:\Projects\CodeWars\MinAndMaxNumberInString\obj\Debug\net5.0\MinAndMaxNumberInString.pdb
+D:\Projects\CodeWars\MinAndMaxNumberInString\obj\Debug\net5.0\MinAndMaxNumberInString.genruntimeconfig.cache
+D:\Projects\CodeWars\MinAndMaxNumberInString\obj\Debug\net5.0\ref\MinAndMaxNumberInString.dll
